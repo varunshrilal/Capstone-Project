@@ -8,5 +8,7 @@ Brisbane is the 3rd largest city in Australia and the capital of Queensland othe
 In this project I will utilise an unsupervised machine learning algorithm known as k-Means clustering, which takes unlabelled data and groups them based on similar features, to uncover underlying patterns about Brisbane’s suburbs. I use easily accessible datasets from ABS and QLD Police for demographic and crime statistics, scrape property website for housing prices, and use Foursquare’s Places API to get information about nearby venues to feed into the algorithm to try and answer the question: what are the most liveable suburbs in Brisbane? The results from this project will try and aid prospective visitors and residents about potential suburbs to live in based on their needs.
 
 [Blog Post](https://medium.com/@varooney/battle-of-the-suburbs-finding-the-best-place-to-live-in-brisbane-using-k-means-clustering-974d0647a3d8) 
+
 [Notebook](https://github.com/varunshrilal/Capstone-Project/blob/master/Final-Project/Battle%20of%20the%20Suburbs%20Brisbane.ipynb)
+
 [Report](https://github.com/varunshrilal/Capstone-Project/blob/master/Final-Project/Exploring%20Brisbane%20Suburbs%20Report.docx)
